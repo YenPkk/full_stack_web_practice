@@ -1,0 +1,2 @@
+# 連線local端就這樣就好，反正就一樣是<IP>:<port>/<database_name>
+MONGO_URI=mongodb://localhost:27017/test
